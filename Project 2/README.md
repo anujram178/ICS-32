@@ -1,0 +1,1 @@
+Python program that gives the pronunciation of a hawaiian phrase.
